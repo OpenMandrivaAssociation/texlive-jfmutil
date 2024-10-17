@@ -3,7 +3,7 @@ Version:	60987
 Release:	2
 Summary:	Utility to process pTeX-extended TFM and VF
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jfmutil
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/jfmutil
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jfmutil.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jfmutil.doc.r%{version}.tar.xz
